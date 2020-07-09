@@ -1,18 +1,18 @@
 [submodule "plugins/vim-pathogen"]
 	path = plugins/vim-pathogen
-	url = git@github.com:tpope/vim-pathogen.git
+	url = https://github.com/tpope/vim-pathogen.git
 [submodule "plugins/nerdtree"]
 	path = plugins/nerdtree
-	url = git@github.com:scrooloose/nerdtree.git
+	url = https://github.com/scrooloose/nerdtree.git
 [submodule "plugins/ag.vim"]
 	path = plugins/ag.vim
-	url = git@github.com:rking/ag.vim.git
+	url = https://github.com/rking/ag.vim.git
 [submodule "plugins/ctrlp.vim"]
 	path = plugins/ctrlp.vim
-	url = git@github.com:ctrlpvim/ctrlp.vim.git
+	url = https://github.com/ctrlpvim/ctrlp.vim.git
 [submodule "plugins/vim-commentary"]
 	path = plugins/vim-commentary
-	url = git@github.com:tpope/vim-commentary.git
+	url = https://github.com/tpope/vim-commentary.git
 [submodule "plugins/vim-fugitive"]
 	path = plugins/vim-fugitive
 	url = https://github.com/tpope/vim-fugitive.git
