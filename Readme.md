@@ -7,7 +7,7 @@
 ## 配置
 
 ```
-$ git clone git@github.com:shfshanyue/vim-config.git ~/.vim-config --recursive
+$ git clone https://github.com/markweiji/vim-config ~/.vim-config --recursive
 $ cd ~/.vim-config
 $ ln -s $(pwd)/.vimrc ~/.vimrc
 
